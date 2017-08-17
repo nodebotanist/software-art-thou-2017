@@ -40,7 +40,7 @@ And we're going to **really question these things.**
 * nazism/facism (spoiler: I'm not a fan)
 * descriptions of harassment
 * I might yell a bit
-* Also I'm gonna try not to curse but I might curse super sorry.
+* Also I'm probably gonna curse super sorry.
 
 ---
 
@@ -103,6 +103,8 @@ And we're going to **really question these things.**
 * We had to fight for codes of conduct at events
 * We had serious problems with idolizing jerks
 
+![inline](~/Dropbox/GIFS/bewrong.gif)
+
 ---
 
 # [fit] But now, it's 
@@ -124,6 +126,8 @@ And we're going to **really question these things.**
 ## We still have a ton of fighting about tools and frameworks and laguages
 
 **Seriously, stop making fun of PHP**
+
+![inline](~/Dropbox/GIFS/frustrated-brave.gif)
 
 ---
 
@@ -549,7 +553,27 @@ Don't feel like you owe anyone for calling out bad behavior, and no one's judgin
 
 ---
 
+# Everyone can do this one
+
+Reach out to someone new, and help them feel welcome to the programming community.
+
+---
+
+# Too many people experience tech this way first
+
+![inline](~/Dropbox/GIFS/try-it-not-cool.gif)
+
+---
+
+# And we need more experiencing it like this
+
+![inline](~/Dropbox/GIFS/try-it-cool.gif)
+
+---
+
 # We all have to work together to right this ship.
+
+![inline](~/Dropbox/GIFS/ballmer-gates.gif)
 
 ---
 
@@ -569,6 +593,10 @@ Don't feel like you owe anyone for calling out bad behavior, and no one's judgin
 
 ## [fit] Do it because
 # [fit] it's the right thing to do.
+
+---
+
+![original fit](~/Dropbox/GIFS/brault.jpg)
 
 ---
 
